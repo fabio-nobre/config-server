@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/fabio-nobre/ead-config-server-repo
           default-label: main
           username: fabio-nobre
-          password: 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
+          password: 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
 
 eureka:
   client:
